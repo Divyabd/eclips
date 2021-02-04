@@ -7,6 +7,9 @@ public class add {
 int a=1;
 int b=2;
 System.out.println(a+b);
+		int c=1;
+int d=2;
+System.out.println(c+d)
 	}
 
 }
