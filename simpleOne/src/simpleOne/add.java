@@ -16,7 +16,7 @@ public class add {
 		int d = 2;
 		System.out.println(c + d);
 
-		int s=2;
+		int s = 2;
 		System.out.println(s);
 	}
 
